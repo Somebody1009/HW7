@@ -1,0 +1,11 @@
+Файл inputs/input01.txt:
+Найбільша міра: 904.32
+Тип фігури: RectangularParallelepiped
+
+Файл inputs/input02.txt:
+Найбільша міра: 593.76
+Тип фігури: RectangularParallelepiped
+
+Файл inputs/input03.txt:
+Найбільша міра: 1047.20
+Тип фігури: RectangularParallelepiped
